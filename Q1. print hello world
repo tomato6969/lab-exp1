@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    
+    cout << "first code of c++ and data structure";
+    
+    return 0;
+}
+
+/*output:-
+first code of c++ and data structure
+*/
